@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+Hi there 👋
 
 
 My name Safia and I'm a front-end web developer.
